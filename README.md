@@ -15,6 +15,18 @@ The information is provided on an “as is” basis. The author shall have neith
 All terms mentioned in these publications that are known to be trademarks or service marks have been appropriately capitalised. The author cannot attest to the accuracy of this information. Use of a term in these publications should not be regarded as affecting the validity of any trademark or service mark.
 
 <b>Contents</b>
+
+<table style="width:100%">
+  <tr>
+    <td>File Name</td>
+    <td>Network Security and Penetration Testing Report</td>
+  </tr>
+  <tr>
+    <td>File URL</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf" rel="noopener noreferrer" target="_blank">NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf</a></td>
+  </tr>
+</table>
+
 <table style="width:100%">
     <tr>
     <td>File Name</td>
