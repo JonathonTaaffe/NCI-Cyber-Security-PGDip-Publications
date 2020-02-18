@@ -23,7 +23,7 @@ All terms mentioned in these publications that are known to be trademarks or ser
   </tr>
   <tr>
     <td>File URL</td>
-    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf" rel="noopener noreferrer" target="_blank">NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf</a></td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf" target="_blank">NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf</a></td>
   </tr>
 </table>
 
