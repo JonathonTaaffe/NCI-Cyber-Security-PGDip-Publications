@@ -29,3 +29,18 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td>https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf</td>
   </tr>
 </table>
+
+<table style="width:100%">
+    <tr>
+    <td>File Name</td>
+    <td>NCI-CySec-S1.2-Cyber_Security_Threat_Analysis_SPAM.pdf</td>
+    </tr>
+  <tr>
+    <td>File Description</td>
+    <td>Cyber Security Threat Analysis of SPAM</td>
+  </tr>
+  <tr>
+    <td>File URL</td>
+    <td>https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.2-Cyber_Security_Threat_Analysis_SPAM.pdf</td>
+  </tr>
+</table>
