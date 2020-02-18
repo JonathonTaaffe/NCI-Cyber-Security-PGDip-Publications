@@ -1,8 +1,4 @@
-College: National College of Ireland
-
-Course: Post Graduate Diploma in Science in Cyber Security
-
-Description: This repository contains the publications created by Jonathon Taaffe while he was attending the Post Graduate Diploma in Science in Cyber Security at the Nation College of Ireland.
+Description: This repository contains the publications created by Jonathon Taaffe while he was attending the Post Graduate Diploma in Science in Cyber Security at the National College of Ireland.
 
 Copyright© 2020 Jonathon Taaffe
 
