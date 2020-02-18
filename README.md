@@ -37,3 +37,14 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.2-Cyber_Security_Threat_Analysis_SPAM.pdf">NCI-CySec-S1.2-Cyber_Security_Threat_Analysis_SPAM.pdf</a></td>
   </tr>
 </table>
+
+<table style="width:100%">
+    <tr>
+    <td>File Name</td>
+    <td>Cyber Security Briefing: Countering Cyber Threats</td>
+    </tr>
+  <tr>
+    <td>File Link</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.3-Cyber_Security_Briefing_Countering_Cyber_Threats.pdf">NCI-CySec-S1.3-Cyber_Security_Briefing_Countering_Cyber_Threats.pdf</a></td>
+  </tr>
+</table>
