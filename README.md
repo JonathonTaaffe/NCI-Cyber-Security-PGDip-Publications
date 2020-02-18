@@ -13,3 +13,9 @@ The information is provided on an “as is” basis. The author shall have neith
 Trademark Acknowledgments
 
 All terms mentioned in these publications that are known to be trademarks or service marks have been appropriately capitalised. The author cannot attest to the accuracy of this information. Use of a term in these publications should not be regarded as affecting the validity of any trademark or service mark.
+
+Contents
+
+File Name: NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf
+File Description: Network Security and Penetration Testing Report
+
