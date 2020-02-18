@@ -17,6 +17,5 @@ All terms mentioned in these publications that are known to be trademarks or ser
 Contents
 
 File Name: NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf
-
 File Description: Network Security and Penetration Testing Report
-
+File URL: https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S1.1-Network_Security_Penetration_Testing_Report.pdf
