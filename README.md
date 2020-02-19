@@ -98,7 +98,7 @@ All terms mentioned in these publications that are known to be trademarks or ser
     </tr>
   <tr>
     <td>Publication URL</td>
-    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S2.3-SecWebApp-Secure-Enterprise-Blog.pdf">NCI-CySec-S2.3-SecWebApp-Secure-Enterprise-Blog.pdf</a></td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S2.3-SecWebDev-Secure_Enterprise_Blog_to.pdf">NCI-CySec-S2.3-SecWebDev-Secure_Enterprise_Blog_to.pdf</a></td>
   </tr>
   <tr>
     <td>Publication Description</td>
