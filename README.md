@@ -104,4 +104,19 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td>Publication Description</td>
     <td>This publication details the design, coding and deployment of a feature-rich Secure Blog Application on LAMP with MySQL, PHP and Laravel. This Secure Blog Application is designed and coded for resistance to MITM, SQL Injection, XSS and CSRF attacks. Security focussed features of the Secure Blog Application include access and event logging, data encryption, password hashing and RBAC with session and cookie management.</td>
   </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Publication Name</td>
+    <td>Secure Application Development: Java Security and Application Testing</td>
+    </tr>
+  <tr>
+    <td>Publication URL</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S3.2-SecAppDev-Java_Security_Research_Testing.pdf">NCI-CySec-S3.2-SecAppDev-Java_Security_Research_Testing.pdf</a></td>
+  </tr>
+  <tr>
+    <td>Publication Description</td>
+    <td>Part 1 of this publication includes in-depth research into the Security of the Java Language and Platform. Part 2 of this publication includes detailed static and dynamic analysis of a Java Application, identified vulnerabilities and the steps to remediated identified vulnerabilities.</td>
+  </tr>
 </table>
