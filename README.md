@@ -59,3 +59,14 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S2.1-Malware_Analysis_Lab.pdf">NCI-CySec-S2.1-Malware_Analysis_Lab.pdf</a></td>
   </tr>
 </table>
+
+<table style="width:100%">
+    <tr>
+    <td>File Name</td>
+    <td>Malware Analysis: Trojan Ransomware Static and Dynamic Analysis</td>
+    </tr>
+  <tr>
+    <td>File Link</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S2.2-Static_Dynamic_Malware_Analysis.pdf">NCI-CySec-S2.2-Static_Dynamic_Malware_Analysis.pdf</a></td>
+  </tr>
+</table>
