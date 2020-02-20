@@ -119,4 +119,19 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td>Publication Description</td>
     <td>Part 1 of this publication includes in-depth research into the Security of the Java Language and Platform. Part 2 of this publication includes detailed static and dynamic analysis of a Java Application, identified vulnerabilities and the steps to remediated identified vulnerabilities.</td>
   </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Publication Name</td>
+    <td>BlockChain Proposal: A Secure Decentralised Credential Management Solution</td>
+    </tr>
+  <tr>
+    <td>Publication URL</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S3.3-BlockChain_Proposal-Secure_Credential_Solution.pdf">NCI-CySec-S3.3-BlockChain_Proposal-Secure_Credential_Solution.pdf</a></td>
+  </tr>
+  <tr>
+    <td>Publication Description</td>
+    <td>This research paper presents a BlockChain Proposal for A Secure Decentralised Credential Management Solution combining Secure Hashing Algorithm (SHA-512), Distributed Ledger Technology (DLT) and Decentralised Public Key Infrastructure (dPKI).</td>
+  </tr>
 </table>
