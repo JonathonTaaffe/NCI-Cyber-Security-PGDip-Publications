@@ -14,8 +14,7 @@ The information is provided on an “as is” basis. The author shall have neith
 
 All terms mentioned in these publications that are known to be trademarks or service marks have been appropriately capitalised. The author cannot attest to the accuracy of this information. Use of a term in these publications should not be regarded as affecting the validity of any trademark or service mark.
 
-<b>Contents</b>
-
+<b>Semester 1</b>
 <table style="width:100%">
   <tr>
     <td>Publication Name</td>
@@ -59,10 +58,11 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td>Publication Description</td>
     <td>A comprehensive Security Information and Event Management (SIEM) proposal in support of a new SIEM deployment at an organisation.</td>
   </tr>
-  <tr>
-    <td></td>
-  </tr>
-  <tr>
+</table>
+
+<b>Semester 2</b>
+<table style="width:100%">
+   <tr>
     <td>Publication Name</td>
     <td>Malware Analysis Lab Configuration</td>
     </tr>
@@ -103,6 +103,23 @@ All terms mentioned in these publications that are known to be trademarks or ser
   <tr>
     <td>Publication Description</td>
     <td>This publication details the design, coding and deployment of a feature-rich Secure Blog Application on LAMP with MySQL, PHP and Laravel. This Secure Blog Application is designed and coded for resistance to MITM, SQL Injection, XSS and CSRF attacks. Security focussed features of the Secure Blog Application include access and event logging, data encryption, password hashing and RBAC with session and cookie management.</td>
+  </tr>
+</table>
+
+<b>Semester 3</b>
+<table style="width:100%">
+  <tr>
+    <td>Publication Name</td>
+    <td>Cloud Security: Secure Web Application Design on Amazon Web Services (AWS)</td>
+    </tr>
+  <tr>
+    <td>Publication URL</td>
+    <td><a href="https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI-CySec-S3.1-CloudSec-Secure_Web_App_AWS.pdf">NCI-CySec-S3.1-CloudSec-Secure_Web_App_AWS.pdf
+</a></td>
+  </tr>
+  <tr>
+    <td>Publication Description</td>
+    <td>In-depth analysis of Cloud Deployment Security Challenges for a Secure Web App deployment on AWS, integrating DNSSEC, TLS Encryption and xDoS prevention, with AWS Virtual Private Cloud (VPC) and Relational Database Services (RDS) to provide Multi-Availability Zone (AZ) Redundancy, Elastic Application Load Balancing (ALB), Auto-Scaling with Data-at-Rest and Data-in-Transit Encryption.</td>
   </tr>
   <tr>
     <td></td>
