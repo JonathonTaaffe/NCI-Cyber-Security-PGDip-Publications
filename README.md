@@ -1,4 +1,4 @@
-<b>Description</b>: This repository contains the publications created by Jonathon Taaffe while he was attending the Post Graduate Diploma in Science in Cyber Security at the National College of Ireland.
+<b>Description</b>: This repository contains the publications created and submitted by Jonathon Taaffe while he was attending the Post Graduate Diploma in Science in Cyber Security at the National College of Ireland 2019 to 2020.
 
 <b>Copyright© 2020 Jonathon Taaffe</b>
 
