@@ -48,11 +48,6 @@ All terms mentioned in these publications that are known to be trademarks or ser
     <td>Certificate URL</td>
     <td>https://github.com/JonathonTaaffe/NCI-Cyber-Security-PGDip-Publications/blob/master/NCI_PostGradDiploma_CyberSecurity_2020_Jonathon_Taaffe.pdf</td>
   </tr>
-  <tr>
-
-  <tr>
-    <td></td>
-  </tr>
 </table>
 
 <b>Semester 1</b>
